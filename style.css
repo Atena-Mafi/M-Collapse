@@ -1,0 +1,25 @@
+.green{
+background-color: blueviolet;
+margin-top: 30px;
+margin-bottom: 50px;
+}
+
+.red{
+    background-color: red;
+margin-top: 60px;
+margin-bottom: 20px;
+}
+
+
+.parent{
+    background-color: chartreuse;
+    margin-top: 2px;
+    margin-bottom:50px;
+
+}
+
+.games{
+    background-color: chocolate;
+    margin-top: 1px;
+    margin-bottom:1px;
+}
